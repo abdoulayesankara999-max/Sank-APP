@@ -1,2 +1,2 @@
 # Sank-APP
-Application officielle du groupe sank 
+L’application officielle du GROUPE SANK. 
